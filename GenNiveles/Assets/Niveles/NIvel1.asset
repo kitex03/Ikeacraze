@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52f8b0053fa397544979520f5d154117, type: 3}
+  m_Name: NIvel1
+  m_EditorClassIdentifier: 
+  anchura: 92
+  profundidad: 81
+  rectX: 10
+  rectY: 12
+  rectWidth: 11
+  rectHeight: 9
+  tiempoDeJuego: 0
+  numeroDeHuecos: 0
+  personajePrefab: {fileID: 919132149155446097, guid: 21df06c7830cbc148851d82f4bf31be1, type: 3}
+  sueloPrefab: {fileID: 919132149155446097, guid: 36aaef4cf4bbe864d92953ab234a4d30, type: 3}
+  bancoDeTrabajoPrefab: {fileID: 919132149155446097, guid: 0835175d62597c74494cb3b9cd48b085, type: 3}
+  papeleraPrefab: {fileID: 919132149155446097, guid: 8cadb3a2683b45045ba6d387d9e7b6bc, type: 3}
+  cajaPrefab: {fileID: 919132149155446097, guid: fc0dc0fbd0500834da9260b5b8c1c10b, type: 3}
+  lugarDeEntregaPrefab: {fileID: 2245312021898914887, guid: 031d5d8b391cc1d43a994449773e47f9, type: 3}
+  encimeraPrefab: {fileID: 919132149155446097, guid: 27108c060f55f41418014ed37dfcd315, type: 3}
+  paredPrefab: {fileID: 919132149155446097, guid: ff02a0a00ab750f48b09459b1cafd1b8, type: 3}
+  materialesCaja:
+  - {fileID: 11400000, guid: 585f2b97723bb864ab06fd8415a6cca5, type: 2}
+  - {fileID: 11400000, guid: afe7a3eb1403b404cb235b466361b2c2, type: 2}
+  - {fileID: 11400000, guid: 8b043300d73af494f8f76986c7c6d90e, type: 2}
+  cantidadBancosDeTrabajo: 2
+  cantidadPapeleras: 2
+  cantidadCajas: 0
+  cantidadPuntosEntrega: 1
+  objetosAleatoriosPrefabs: []

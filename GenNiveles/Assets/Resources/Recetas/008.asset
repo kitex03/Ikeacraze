@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 973e47f023e64f869bba64d96f579847, type: 3}
+  m_Name: 008
+  m_EditorClassIdentifier: 
+  id: 
+  nombre: Armchair
+  activo: 1
+  dificultad: 2
+  materiales:
+  - {fileID: 11400000, guid: 140fb310af7370d4086060fcd891e169, type: 2}
+  - {fileID: 11400000, guid: 140fb310af7370d4086060fcd891e169, type: 2}
+  - {fileID: 11400000, guid: 8b043300d73af494f8f76986c7c6d90e, type: 2}
+  - {fileID: 11400000, guid: afe7a3eb1403b404cb235b466361b2c2, type: 2}
+  resultado:
+    id: 0
+    cantidad: 1
+    prefab: {fileID: 3434077969523235272, guid: a8ed436b09fb4894cbe8fa570a792072, type: 3}
+    sound: {fileID: 0}
+  timeCreated: 0

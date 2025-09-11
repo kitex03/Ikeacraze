@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 973e47f023e64f869bba64d96f579847, type: 3}
+  m_Name: 001
+  m_EditorClassIdentifier: 
+  id: 01010202
+  nombre: Mirror
+  activo: 1
+  dificultad: 1
+  materiales:
+  - {fileID: 11400000, guid: 585f2b97723bb864ab06fd8415a6cca5, type: 2}
+  - {fileID: 11400000, guid: 585f2b97723bb864ab06fd8415a6cca5, type: 2}
+  - {fileID: 11400000, guid: afe7a3eb1403b404cb235b466361b2c2, type: 2}
+  resultado:
+    id: 1010202
+    cantidad: 1
+    prefab: {fileID: 6290658494090891076, guid: 2af29d73e8828064cae7900567736d47, type: 3}
+    sound: {fileID: 0}
+  timeCreated: 0

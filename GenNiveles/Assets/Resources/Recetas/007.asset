@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 973e47f023e64f869bba64d96f579847, type: 3}
+  m_Name: 007
+  m_EditorClassIdentifier: 
+  id: 
+  nombre: Bench
+  activo: 1
+  dificultad: 2
+  materiales:
+  - {fileID: 11400000, guid: afe7a3eb1403b404cb235b466361b2c2, type: 2}
+  - {fileID: 11400000, guid: afe7a3eb1403b404cb235b466361b2c2, type: 2}
+  - {fileID: 11400000, guid: 562c8e6417bfca44bada98488f83699d, type: 2}
+  - {fileID: 11400000, guid: 562c8e6417bfca44bada98488f83699d, type: 2}
+  resultado:
+    id: 0
+    cantidad: 1
+    prefab: {fileID: 4494384546481079390, guid: 4fa09f04b3fb7a7429ee9215535659f2, type: 3}
+    sound: {fileID: 0}
+  timeCreated: 0

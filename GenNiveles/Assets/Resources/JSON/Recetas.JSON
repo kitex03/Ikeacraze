@@ -1,0 +1,9 @@
+﻿{
+  "items": [
+    {
+      "id": "36",
+      "prefabPath": "Items/Madera",
+      "audioPath": "Audio/MaderaSound"
+    }
+  ]
+}

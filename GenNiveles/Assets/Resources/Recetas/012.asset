@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 973e47f023e64f869bba64d96f579847, type: 3}
+  m_Name: 012
+  m_EditorClassIdentifier: 
+  id: 
+  nombre: BathroomCupboard
+  activo: 1
+  dificultad: 3
+  materiales:
+  - {fileID: 11400000, guid: 585f2b97723bb864ab06fd8415a6cca5, type: 2}
+  - {fileID: 11400000, guid: 585f2b97723bb864ab06fd8415a6cca5, type: 2}
+  - {fileID: 11400000, guid: 562c8e6417bfca44bada98488f83699d, type: 2}
+  - {fileID: 11400000, guid: 8b043300d73af494f8f76986c7c6d90e, type: 2}
+  - {fileID: 11400000, guid: 8b043300d73af494f8f76986c7c6d90e, type: 2}
+  resultado:
+    id: 0
+    cantidad: 1
+    prefab: {fileID: 8308466498195835762, guid: 039d79a8d0743b246b96303155f8aa87, type: 3}
+    sound: {fileID: 0}
+  timeCreated: 0
